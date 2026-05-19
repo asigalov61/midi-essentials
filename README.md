@@ -1,6 +1,8 @@
 # MIDI Essentials
 ## Convenience installer of all Tegridy Code packages for working with MIDIs
 
+<img width="1024" height="1024" alt="midi-essentials" src="https://github.com/user-attachments/assets/8a11a4d7-aaed-4ab5-bbbc-8c7d9df7ed93" />
+
 ***
 
 ### Installed are the following Tegridy Code MIDI packages
