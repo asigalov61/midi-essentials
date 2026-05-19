@@ -1,4 +1,4 @@
-# MIDI essentials
+# MIDI Essentials
 ## Convenience installer of all Tegridy Code packages for working with MIDIs
 
 ***
@@ -14,6 +14,8 @@
 #### [midicap](https://github.com/asigalov61/midicap)
 
 #### [midiano](https://github.com/asigalov61/midiano)
+
+#### [mididoctor](https://github.com/asigalov61/mididoctor)
 
 #### [midiharmony](https://github.com/asigalov61/midiharmony)
 
