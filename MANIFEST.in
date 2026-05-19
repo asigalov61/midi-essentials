@@ -1,0 +1,3 @@
+include midi-essentials/README.md
+recursive-include midi-essentials/ *
+recursive-include midi-essentials/artwork *
