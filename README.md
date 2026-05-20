@@ -5,11 +5,21 @@
 
 ***
 
+## Installation
+
+```sh
+!pip install midi-essentials
+```
+
+***
+
 ### Installed are the following Tegridy Code MIDI packages
 
 #### [discovermidi](https://github.com/asigalov61/discovermidi)
 
 #### [midisim](https://github.com/asigalov61/midisim)
+
+#### [midichords](https://github.com/asigalov61/midichords)
 
 #### [midisplitter](https://github.com/asigalov61/midisplitter)
 
